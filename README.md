@@ -13,6 +13,8 @@ Without .pickerStyle() or with .pickerStyle(.automatic) it shows as .menu, but b
 In the automatic style the whole label is tapable, which does not work with .menu applied.
 When .menu is applied the picker automatically gets the apps tintColor, which does not happen for .automatic. 
 
+![Screenshot](./Screenshot.jpeg)
+
 
 ## Example Code
 
